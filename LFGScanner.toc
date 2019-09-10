@@ -1,0 +1,12 @@
+## Interface: 11302
+## Title: LFGScanner
+## Notes: Finds groups by scanning LFG chat
+## Version: 0.5
+## SavedVariables: LFGScanner.DB
+LFGScanner.lua
+Player.lua
+Group.lua
+GroupManager.lua
+MessageHandler.lua
+MainFrame.lua
+ScrollFrame.lua
